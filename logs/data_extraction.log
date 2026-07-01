@@ -1,0 +1,21 @@
+2026-06-20 02:03:17,262 - INFO - Data Extraction Started
+2026-06-20 05:33:29,302 - INFO - page_1_coinGecko.csv is created successfully
+2026-06-20 05:33:31,692 - INFO - page_2_coinGecko.csv is created successfully
+2026-06-20 05:33:33,716 - INFO - Final raw_data.csv is created successfully
+2026-06-20 05:33:33,716 - INFO - Recovery file deleted- Pipeline complete
+2026-06-20 05:33:33,716 - INFO - Total rows: 500
+2026-06-20 05:33:33,732 - INFO - Total columns : 26
+2026-06-20 05:33:33,732 - INFO - Data Extraction Completed
+2026-06-20 05:35:29,271 - INFO - Data Extraction Started
+2026-06-20 05:35:33,963 - INFO - page_1_coinGecko.csv is created successfully
+2026-06-20 05:35:36,324 - INFO - page_2_coinGecko.csv is created successfully
+2026-06-20 05:35:38,663 - INFO - page_3_coinGecko.csv is created successfully
+2026-06-20 05:35:41,054 - INFO - page_4_coinGecko.csv is created successfully
+2026-06-20 05:35:43,449 - INFO - page_5_coinGecko.csv is created successfully
+2026-06-20 05:35:45,509 - INFO - Final raw_data.csv is created successfully
+2026-06-20 05:35:45,509 - INFO - Recovery file deleted- Pipeline complete
+2026-06-20 05:35:45,516 - INFO - Total rows: 1250
+2026-06-20 05:35:45,518 - INFO - Total columns : 26
+2026-06-20 05:35:45,519 - INFO - Data Extraction Completed
+2026-06-20 06:09:13,307 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-20 06:09:13,307 - WARNING - No such comm: 242b564e-99c3-432e-9e8c-745f1abff474

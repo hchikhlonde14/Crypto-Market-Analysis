@@ -1,0 +1,23 @@
+2026-06-25 17:05:37,473 - INFO - Data cleaning started
+2026-06-25 17:05:37,527 - INFO - Data loaded: (1250, 26)
+2026-06-25 17:05:37,600 - INFO - Dropped columns: ['max_supply', 'circulating_supply', 'image', 'roi', 'market_cap_change_percentage_24h', 'sparkline_in_7d', 'market_cap_change_24h', 'total_supply', 'fully_diluted_valuation']
+2026-06-25 17:05:37,843 - INFO - Data cleaning completed with shape (1250, 25)
+2026-06-25 17:05:37,863 - INFO - EDA started
+2026-06-25 17:05:37,937 - INFO - Data Loaded to SQL
+2026-06-25 17:05:37,983 - INFO - EDA using SQL completed
+2026-06-25 17:05:44,132 - INFO - Model Building started
+2026-06-25 17:11:17,167 - INFO - Model Building started
+2026-06-25 17:14:29,466 - INFO - Model Saved with accuracy 0.7680
+2026-06-25 17:14:29,592 - INFO - Files exported for Power BI
+2026-06-25 17:21:08,301 - INFO - Data cleaning started
+2026-06-25 17:21:08,327 - INFO - Data loaded: (1250, 26)
+2026-06-25 17:21:08,611 - INFO - Dropped columns: ['max_supply', 'circulating_supply', 'image', 'roi', 'market_cap_change_percentage_24h', 'sparkline_in_7d', 'market_cap_change_24h', 'total_supply', 'fully_diluted_valuation']
+2026-06-25 17:21:12,097 - INFO - Data cleaning completed with shape (1250, 25)
+2026-06-25 17:21:13,264 - INFO - EDA started
+2026-06-25 17:21:13,309 - INFO - Data Loaded to SQL
+2026-06-25 17:21:13,343 - INFO - EDA using SQL completed
+2026-06-25 17:21:23,707 - INFO - Model Building started
+2026-06-25 17:22:48,027 - INFO - Model Saved with accuracy 0.7680
+2026-06-25 17:22:51,552 - INFO - Files exported for Power BI
+2026-06-26 12:36:15,791 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-683' coro=<_async_in_context.<locals>.run_in_context() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\utils.py:57> cb=[ZMQStream._run_callback.<locals>._log_error() at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\zmq\eventloop\zmqstream.py:563]>

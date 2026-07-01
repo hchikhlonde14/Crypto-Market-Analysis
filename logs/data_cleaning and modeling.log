@@ -1,0 +1,30 @@
+2026-06-22 20:27:10,833 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-22 20:27:10,849 - WARNING - No such comm: b44047f9-cd30-4bed-98ba-9c58894ab4bb
+2026-06-22 21:10:02,681 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-22 21:10:02,697 - WARNING - No such comm: f89b04b3-b0e2-4a1d-97a9-f908e21c9055
+2026-06-22 23:38:45,494 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-22 23:38:45,515 - WARNING - No such comm: 9f7c7c95-ffa3-448b-bdcd-38a75385c35f
+2026-06-23 00:23:53,376 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-23 00:23:53,392 - WARNING - No such comm: 011ff7ba-2ed4-44db-b6b8-7e9c1b1cc514
+2026-06-23 12:29:47,021 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-23 12:29:47,037 - WARNING - No such comm: 51a91eb5-51f4-4dc2-8cd1-9b62f68330f2
+2026-06-23 13:11:05,819 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-23 13:11:05,834 - WARNING - No such comm: c0b7da23-ef31-4958-b376-cf8cb432b12f
+2026-06-24 15:14:01,246 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7597' coro=<_async_in_context.<locals>.run_in_context() done, defined at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\utils.py:57> wait_for=<Task pending name='Task-7598' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]> cb=[ZMQStream._run_callback.<locals>._log_error() at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\zmq\eventloop\zmqstream.py:563]>
+2026-06-24 15:14:01,258 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7598' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]>
+2026-06-24 15:14:01,260 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7633' coro=<_async_in_context.<locals>.run_in_context() done, defined at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\utils.py:57> wait_for=<Task pending name='Task-7634' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]> cb=[ZMQStream._run_callback.<locals>._log_error() at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\zmq\eventloop\zmqstream.py:563]>
+2026-06-24 15:14:01,262 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7634' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]>
+2026-06-24 15:14:01,263 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7651' coro=<_async_in_context.<locals>.run_in_context() done, defined at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\utils.py:57> wait_for=<Task pending name='Task-7652' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]> cb=[ZMQStream._run_callback.<locals>._log_error() at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\zmq\eventloop\zmqstream.py:563]>
+2026-06-24 15:14:01,265 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7652' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]>
+2026-06-24 15:21:12,399 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7761' coro=<_async_in_context.<locals>.run_in_context() done, defined at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\utils.py:57> wait_for=<Task pending name='Task-7762' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]> cb=[ZMQStream._run_callback.<locals>._log_error() at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\zmq\eventloop\zmqstream.py:563]>
+2026-06-24 15:21:12,401 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7762' coro=<Kernel.shell_main() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\kernelbase.py:597> cb=[Task.task_wakeup()]>
+2026-06-25 03:00:14,930 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7969' coro=<_async_in_context.<locals>.run_in_context() running at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\ipykernel\utils.py:57> cb=[ZMQStream._run_callback.<locals>._log_error() at C:\Users\Himanshu\anaconda3\envs\coinGecko\Lib\site-packages\zmq\eventloop\zmqstream.py:563]>
