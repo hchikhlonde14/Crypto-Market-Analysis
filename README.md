@@ -184,8 +184,8 @@ Open `dashboard.pbix` in Power BI Desktop and refresh the data connections.
 
 ## 📧 Contact
 
-**Himanshu Chikhlonde**
-📩 himanshuchikhlonde14@gmail.com
+**Himanshu Chikhlonde**<br>
+📩 himanshuchikhlonde14@gmail.com<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-chikhlonde-aa0224247)
 
 ---
